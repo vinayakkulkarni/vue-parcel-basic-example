@@ -1,4 +1,4 @@
-# Vue Parcel Basic Example
+# Vue Parcel Basic Example :diamond_shape_with_a_dot_inside: [![Build Status](https://travis-ci.org/vinayakkulkarni/vue-parcel-basic-example.svg?branch=master)](https://travis-ci.org/vinayakkulkarni/vue-parcel-basic-example)
 
 A minimum viable [Vue](https://vuejs.org) app with
 [Parcel Bundler](https://parceljs.org)
